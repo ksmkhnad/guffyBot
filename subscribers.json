@@ -1,0 +1,19 @@
+{
+  "FamilyMembers": [
+    {
+      "Name": "Nadira",
+      "TelegramID": 437387828,
+      "Subscriptions": {
+        "Apple": true,
+        "Spotify": true
+      }
+    },
+    {
+      "Name": "Kerim",
+      "TelegramID": 477063996,
+      "Subscriptions": {
+        "Apple": true
+      }
+    }
+  ]
+}
