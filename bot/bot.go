@@ -10,7 +10,7 @@ import (
 
 func RunBot() {
 	// Create a new bot instance
-	bot, err := tgbotapi.NewBotAPI("6396960419:AAFtv4DuqBIVVqI0IGPMMMm8osY7YaDoiZ8") // Replace with your actual bot token
+	bot, err := tgbotapi.NewBotAPI("tokenBot") // Replace with your actual bot token
 	if err != nil {
 		log.Fatal(err)
 	}
